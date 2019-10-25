@@ -10,7 +10,7 @@ This application is (select one):
 
 ## Request Amount
 
-[Specify the amount of funds and Reputation requested] 
+[Specify the amount of funds and Reputation requested]
 
 ## Description
 
@@ -23,6 +23,14 @@ This application is (select one):
 ## About the Author
 
 [Description of the team's experience.]
+
+## Deliverables
+
+[What would be delivered as part of the proposal and mark the work proposed as complete]
+
+## Milestones
+
+[Include checkpoints and proposed delivery dates for these checkpoints]
 
 ## Updates
 
