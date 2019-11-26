@@ -1,3 +1,9 @@
+---
+description: >-
+  In order to participate in Genesis, is helpful to have an understanding of
+  DAOstack, specially the Holographic Consensus protocol.
+---
+
 # Introduction to DAOstack
 
 **DAOstack is an open source project advancing the technology and adoption of decentralized governance.** 

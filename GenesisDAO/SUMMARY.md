@@ -1,12 +1,12 @@
 # Table of contents
 
 * [Start Here](README.md)
-* [Introduction to DAOstack](introduction-to-daostack-and-genesis/README.md)
-  * [Introduction to Genesis](introduction-to-daostack-and-genesis/introduction-to-genesis.md)
+* [Introduction to Genesis](introduction-to-genesis.md)
 * [Genesis DAO Mission](genesis-dao-principles-and-mission/README.md)
   * [Principles](genesis-dao-principles-and-mission/principles.md)
   * [Objectives](genesis-dao-principles-and-mission/objectives.md)
   * [Code Of Conduct](genesis-dao-principles-and-mission/code-of-conduct.md)
+* [Introduction to DAOstack](introduction-to-daostack-and-genesis.md)
 * [Alchemy Tutorial](alchemy-tutorial/README.md)
   * [1- wallet integration](alchemy-tutorial/1-wallet-integration.md)
   * [2- identity verification](alchemy-tutorial/2-identity-verification.md)
